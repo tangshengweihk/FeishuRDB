@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "QRCode-App",
+  "description": "二维码扫描存储和数据展示小程序",
+  "appid": "cli_a7c56836f2325013",
+  "libVersion": "2.0.0",
+  "setting": {
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "minified": true
+  }
+}
